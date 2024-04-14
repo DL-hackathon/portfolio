@@ -17,8 +17,9 @@
 * Streamlit application:
    - [GitHub-repository](https://github.com/DL-hackathon/streamlit.git)
    - [Web-service](https://app-zubrb8gqekrzqf8htzwuga.streamlit.app/)
-* [Project: Salary comparison in Russia 2000-2023](https://github.com/DL-hackathon/Salary-comparison-project.git)
-
+* Project: Wages comparison in Russia 2000-2023:
+   - [GitHub-repository](https://github.com/DL-hackathon/wage-comparison)
+   - [Web-service](https://wage-comparison-qgsrq67k5o8xjakknfscsn.streamlit.app/)
 
 ## Data Scraping
 Implementation of the game [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon): scraping data from [IMDB](https://www.imdb.com/), calculate "distance" between two randomly chosen actors and plot a graph of social distances.
